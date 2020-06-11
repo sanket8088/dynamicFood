@@ -1,0 +1,16 @@
+header{
+    margin-bottom: 20px;
+}
+
+iframe{
+    margin-left: 25%;
+}
+
+body{
+    background-color: lightblue;
+}
+
+#video-description{
+    margin-left: 25%;
+    width: 640px;
+}
